@@ -16,8 +16,8 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/illhanunjung/Hwado-final)
->나의 백엔드 포트폴리오 (팀 프로젝트)  
+### 1. [포트폴리오](https://github.com/Software-basic-project-team2/2d-tower-defence)
+>2d-tower-defence 게임 제작 (팀 프로젝트)  
 >개발 기간: 2023.10.01 ~ 2023.11.05  
 >  
 >기술 스택:  
@@ -28,9 +28,9 @@
 
 ---
 
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 2. [두 번째 프로젝트](https://github.com/illhanunjung/Hwado-final)
+>무명 예술가들을 위한 C2C 플랫폼 - 화도  (팀 프로젝트)  
+>개발 기간: 2024.01.08~2024.01.24
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
