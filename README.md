@@ -1,6 +1,6 @@
 # 지수빈 포트폴리오
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
-2
+>
+
 </br>
 
 ## :pushpin: Intro
@@ -45,19 +45,35 @@
 >Kakao Login API / PortOne API / Kakao Map API / 스마트택배 API  
 >VGG16  
 >
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+>[프로젝트 상세 설명](https://github.com/illhanunjung/Hwado-final) 참고
 >
 ><b>내가 맡은 역할</b>   
->있나?
+>#### `Front-End`
+>- 경매 결과 확인 페이지 제작
+>
+>#### `Back-end`
+>- VGG16 모델과 코사인 유사도를 활용한 추천 알고리즘 구현
+>- 일반 상품 등록 페이지 기능 구현
+>- 일반 상품 출력 페이지 기능 구현
+>- 일반 상품 상세 페이지 기능 구현
+>- 경매 등록 페이지 기능 구현
+>- 경매 출력 페이지 기능 구현
+>- 경매 상세 페이지 기능 구현
+>- 관심 상품 등록 기능 구현
+>- 관심 상품 출력 페이지 기능 구현
+>- 메인 페이지 상품 상세 페이지 이동 기능 구현
+>- 장바구니 등록 기능 구현
+>- 장바구니 출력 페이지 기능 구현
+>- 구매 페이지 기능 구현
+>- 포트원 API를 활용한 결제 기능 구현
+>- 작가 개인 페이지 기능 구현
+>- 작가 프로필 등록 기능 구현
+>- 경매 확인 페이지 기능 구현
+>- 경매 마감 기능 구현
+>- 카테고리 검색 기능 구현
+>- 플라스크 서버 연동
+>- DB 설계
 >
 ---
 
-### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+
